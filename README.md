@@ -1,6 +1,3 @@
-[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Sayel Abualigah</h1>
 <h3 align="center">Data Scientist From Jordan</h3>
 <img align="right" alt="Coding" width="400" src="https://braze-marketing-assets.s3.amazonaws.com/images/Intuition-Issue/Not-Hype-Not-Magic-What-Human-Focused-AI-Really-Means-For-Customer-Engagement_1120x660.gif">
