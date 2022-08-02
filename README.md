@@ -6,12 +6,6 @@
 
 - 🔭 I’m currently working on **DD-SSD-Deep-Detector-for-Strip-Steel-DefectsV2**
 
-- ######## **#########**
-
-- 🌱 I’m currently learning **GCN and Pytorch geometric**
-
-- ######## **#########**
-
 - All of my Papers are available at [https://scholar.google.com/citations?user=KV829ywAAAAJ&hl=ar&oi=ao](https://scholar.google.com/citations?user=KV829ywAAAAJ&hl=ar&oi=ao)
 
 - 📝 I regularly write articles on [https://www.researchgate.net/profile/Sayel-Abualigah](https://www.researchgate.net/profile/Sayel-Abualigah)
